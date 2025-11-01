@@ -36,4 +36,4 @@ plt.show()
 - Seasonal trends visible in monthly sales
 
 ## 🧑‍💻 Author
-**Ishwar Kumar** — Aspiring Data Analyst | Python • SQL • Power BI
+**Ishwar** — Aspiring Data Analyst | Python • SQL • Power BI
